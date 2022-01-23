@@ -34,7 +34,7 @@ Dork Finder is written for Python 2. Clone the git repository and install the re
 **
 
 # Linux
-sudo git clone https://github.com/trhacknonimous/Dork-Finder.git
+sudo git clone https://github.com/trhacknon/Dork-Finder.git
 
 cd Dork-Finder
 
@@ -50,7 +50,7 @@ Have fun ðŸ˜ƒ
 
 # Termux
 
-git clone https://github.com/trhacknonimous/Dork-Finder.git
+git clone https://github.com/trhacknon/Dork-Finder.git
 
 cd Dork-Finder
 
