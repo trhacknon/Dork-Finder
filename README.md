@@ -33,6 +33,14 @@ This list would be expanded
 Dork Finder is written for Python 2. Clone the git repository and install the requirements.
 **
 
+
+# Linux
+sudo git clone https://github.com/trhacknon/Dork-Finder.git
+
+cd Dork-Finder
+
+pip3 install -r requirements.txt
+
 To download a long list of dork :
 ```
 chmod +x dlfreshdork.sh
@@ -40,12 +48,6 @@ chmod +x dlfreshdork.sh
 ```
 bash dlfreshdork.sh
 ```
-# Linux
-sudo git clone https://github.com/trhacknon/Dork-Finder.git
-
-cd Dork-Finder
-
-pip3 install -r requirements.txt
 
 # Dorks Finder Usage Linux
 
