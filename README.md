@@ -32,6 +32,7 @@ This list would be expanded
 
 Dork Finder is written for Python 2. Clone the git repository and install the requirements.
 **
+
 To download a long list of dork :
 ```
 chmod +x dlfreshdork.sh
