@@ -1,1 +1,1 @@
-wget http://gfwkesarea.ml/fressdork.txt
+wget http://gfwkesarea.ml/freshdork.txt
